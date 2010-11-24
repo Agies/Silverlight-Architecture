@@ -1,0 +1,12 @@
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\SilverlightArchitecture.dll
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\SilverlightArchitecture.pdb
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\AppManifest.xaml
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\SilverlightArchitecture.xap
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\Silverlight_ArchitectureTestPage.html
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\App.g.i.cs
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\MainPage.g.i.cs
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\SilverlightArchitecture.g.resources
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\SilverlightArchitecture.dll
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\SilverlightArchitecture.pdb
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\XapCacheFile.xml

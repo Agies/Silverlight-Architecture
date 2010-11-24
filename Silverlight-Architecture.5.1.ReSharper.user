@@ -1,0 +1,47 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PerformanceTips.txt/l:C!?Code?Silverlight-Architecture?PerformanceTips.txt" caret="281" fromTop="4" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="143" fromTop="3" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Using MVVM.txt/l:C!?Code?Silverlight-Architecture?Using MVVM.txt" caret="10" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml" caret="183" fromTop="2" />
+      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="22" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="84" fromTop="4" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converts/f:ExampleConverter.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="0" fromTop="0" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PeopleToWatch.txt/l:C!?Code?Silverlight-Architecture?PeopleToWatch.txt" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PerformanceTips.txt/l:C!?Code?Silverlight-Architecture?PerformanceTips.txt" caret="281" fromTop="4" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1570" fromTop="18" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1404" fromTop="19" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1402" fromTop="17" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1082" fromTop="13" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="49" fromTop="1" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Using MVVM.txt/l:C!?Code?Silverlight-Architecture?Using MVVM.txt" caret="10" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converts/f:ExampleConverter.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="84" fromTop="4" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml" caret="181" fromTop="2" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="22" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,7 @@
+Performance tips
+1. Use the Visibility property rather than Opacity to hide objects.
+2. Don't use the Width and Height properties of MediaElement and Path objects.
+3. Detach programmatically registered event handlers after use.
+4. Use transparent control backgrounds sparingly.
+
+http://msdn.microsoft.com/en-us/bb693295.aspx

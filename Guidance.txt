@@ -1,0 +1,17 @@
+Guidance
+1. Take Performance Tips to Heart (See: Performance Tips)
+2. Offer a Compelling Installation Experience
+3. Don't Make the User Wait
+4. Don’t use unnecessary “xmlns” namespaces in the XAML file.
+5. Don’t add same namespaces multiple times in a single XAML page.
+6. Use proper name for your “xmlns” namespace prefix (For example: xmlns:commonControls is more meaningful than xmlns:cctrl). 
+7. Try avoiding “xmlns” namespace prefix name as “local”. Instead use “localControls” or “localConverters” etc. as per your namespace name.
+8. When adding a control that has no elements inside it, better to close it by self-closing tag “/>” instead of the hard closing tag (</TAG>).  
+9. Remove all unnecessary resource keys if they are not in use. 
+10. Don’t use extra panels (e.g. Grid, StackPanel, Canvas etc.) unless it is required. 
+11. Always try to use Grid as your panel first and if you require other panels, use them.
+12. Never try to give a name to all of your controls inside your Silverlight page as it takes unnecessary object creation at the time of load. 
+14. Use proper formatting of your XAML code.
+15. Try to use StaticResource instead of DynamicResource as it increases the performance and also it throws exceptions at development time. Hence, easier to identify the root cause. 
+16. Remove unnecessary styles & storyboard animations if they are not require at all. 
+17. Try to add your styles in a separate file if you want to share them across your application. If they are specific to a single page then add them in the page resource.
