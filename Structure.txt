@@ -1,0 +1,26 @@
+Structure
+
+Organizing Resources
+1. Organize resources by logical task
+	A. Organize logical resources within a scence
+		<Window.Resources> 
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"> 
+			<!-- #Constants --> 
+			<!-- #Colors --> 
+			<!-- #Brushes --> 
+			<!-- #Converters --> 
+			<!-- #Objects (such as Data) or commands (for ribbon),etc. --> 
+			<!-- #Styles --> 
+			<!-- #DataTemplates --> 
+		</Window.Resources>
+	B. Naming
+		1. Use "x:Key"
+		2. Pascal case
+		3. For Implicit style 
+			<Style x:Key="{x:Type Button}" TargetType="{x:Type Button}">
+	C. Organizing resources in a resource dictionary
+		1. Keep resource files small
+		2. Append .generic to dictionaries intended to merge into generic.xaml
+		3. Merge resource dictionaries then local resources
+		4. Merge resource dictionaries into the App.xaml, when available, for maximum sharing

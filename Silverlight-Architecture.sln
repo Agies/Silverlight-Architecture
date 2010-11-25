@@ -8,14 +8,21 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Support", "Support", "{71937A31-7A32-4809-B5D1-9865F3386AAC}"
 	ProjectSection(SolutionItems) = preProject
 		Guidance.txt = Guidance.txt
+		NamingConventions.txt = NamingConventions.txt
 		PeopleToWatch.txt = PeopleToWatch.txt
 		PerformanceTips.txt = PerformanceTips.txt
+		Structure.txt = Structure.txt
 		Using MVVM.txt = Using MVVM.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThirdParty", "ThirdParty", "{AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Preload", "Preload", "{35246773-981E-47C9-937C-F7668FCE980F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

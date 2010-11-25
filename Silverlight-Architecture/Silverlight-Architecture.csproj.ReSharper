@@ -2,5 +2,6 @@
   <NamespaceFolders>
     <SkipFolder>BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models</SkipFolder>
     <SkipFolder>BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels</SkipFolder>
+    <SkipFolder>BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Resources</SkipFolder>
   </NamespaceFolders>
 </Configuration>

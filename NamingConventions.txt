@@ -1,0 +1,14 @@
+Naming Conventions
+1. Elements within a scene
+	A. Name only needed elements
+	B. Use "x:Name"
+	C. Be consistent in your naming.
+	D. Use Pascal casing. It is more readable, it involves less typing of unnecessary prefixes, and almost truly represents the behavior, because the generated members are internal.
+	E. Provide meaningful names. Instead of a name like border1, use something like TrackBackgroundBorder.
+	F. Make the x:Name attribute the first attribute after a type instance, like this:
+		<Button x:Name="CancelButton" ... />
+	G. Postfix names with the type of the element. For example, use a convention like 
+		x:Name="CustomerListBox" or x:Name="SearchTextBox".
+2. Elements within a template
+	A. Parts that the control expected should be prefixed with "PART_"
+	B. As elements with in a scene

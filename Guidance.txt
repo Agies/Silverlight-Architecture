@@ -15,3 +15,6 @@ Guidance
 15. Try to use StaticResource instead of DynamicResource as it increases the performance and also it throws exceptions at development time. Hence, easier to identify the root cause. 
 16. Remove unnecessary styles & storyboard animations if they are not require at all. 
 17. Try to add your styles in a separate file if you want to share them across your application. If they are specific to a single page then add them in the page resource.
+18. Wrap control templates in styles to reduce "hard-coded" behaviors.
+19. Be explicit when referencing file-based resources using "pack://" often.
+ 
