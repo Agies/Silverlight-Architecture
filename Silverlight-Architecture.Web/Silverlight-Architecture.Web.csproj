@@ -13,7 +13,7 @@
     <RootNamespace>Silverlight_Architecture.Web</RootNamespace>
     <AssemblyName>Silverlight-Architecture.Web</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <SilverlightApplicationList>{BDC379D0-4DC0-4534-9788-AB6445BD6261}|..\Silverlight-Architecture\Silverlight-Architecture.csproj|ClientBin|False</SilverlightApplicationList>
+    <SilverlightApplicationList>{BDC379D0-4DC0-4534-9788-AB6445BD6261}|..\Silverlight-Architecture\Silverlight-Architecture.csproj|ClientBin|False,{E4920FE4-7926-423D-8779-0A1B5E896965}|..\SilverlightArchitecture.UnitTests\SilverlightArchitecture.UnitTests.csproj|ClientBin|False,{0BCA43C5-FF1B-4A39-8667-9C1982939182}|..\SilverlightArchitecture.IntegrationTests\SilverlightArchitecture.IntegrationTests.csproj|ClientBin|False</SilverlightApplicationList>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -34,6 +34,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -55,6 +57,10 @@
     <Content Include="Silverlight-ArchitectureTestPage.aspx" />
     <Content Include="Silverlight-ArchitectureTestPage.html" />
     <Content Include="Silverlight.js" />
+    <Content Include="SilverlightArchitecture.IntegrationTestsTestPage.aspx" />
+    <Content Include="SilverlightArchitecture.IntegrationTestsTestPage.html" />
+    <Content Include="SilverlightArchitecture.UnitTestsTestPage.aspx" />
+    <Content Include="SilverlightArchitecture.UnitTestsTestPage.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

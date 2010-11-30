@@ -16,6 +16,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Support", "Support", "{7193
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThirdParty", "ThirdParty", "{AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55}"
+	ProjectSection(SolutionItems) = preProject
+		ThirdParty\Ninject\extensions\CommonServiceLocator.NinjectAdapter.dll = ThirdParty\Ninject\extensions\CommonServiceLocator.NinjectAdapter.dll
+		ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.dll = ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.dll
+		ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.XML = ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.XML
+		ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.dll = ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.dll
+		ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.XML = ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.XML
+		ThirdParty\Ninject\Ninject.dll = ThirdParty\Ninject\Ninject.dll
+		ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.dll = ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.dll
+		ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.pdb = ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.pdb
+		ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.xml = ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.xml
+		ThirdParty\Ninject\Ninject.xml = ThirdParty\Ninject\Ninject.xml
+		ThirdParty\MvvmLight\System.Windows.Interactivity.dll = ThirdParty\MvvmLight\System.Windows.Interactivity.dll
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Preload", "Preload", "{35246773-981E-47C9-937C-F7668FCE980F}"
 EndProject
@@ -23,6 +36,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		Readme.txt = Readme.txt
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{94CD553B-E19A-4BEC-B887-A900E00D1AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.UnitTests", "SilverlightArchitecture.UnitTests\SilverlightArchitecture.UnitTests.csproj", "{E4920FE4-7926-423D-8779-0A1B5E896965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.IntegrationTests", "SilverlightArchitecture.IntegrationTests\SilverlightArchitecture.IntegrationTests.csproj", "{0BCA43C5-FF1B-4A39-8667-9C1982939182}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,8 +57,20 @@ Global
 		{CE808EAC-5EAC-463C-A419-C63CEEA5C039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE808EAC-5EAC-463C-A419-C63CEEA5C039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE808EAC-5EAC-463C-A419-C63CEEA5C039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4920FE4-7926-423D-8779-0A1B5E896965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4920FE4-7926-423D-8779-0A1B5E896965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4920FE4-7926-423D-8779-0A1B5E896965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4920FE4-7926-423D-8779-0A1B5E896965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCA43C5-FF1B-4A39-8667-9C1982939182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCA43C5-FF1B-4A39-8667-9C1982939182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCA43C5-FF1B-4A39-8667-9C1982939182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCA43C5-FF1B-4A39-8667-9C1982939182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4920FE4-7926-423D-8779-0A1B5E896965} = {94CD553B-E19A-4BEC-B887-A900E00D1AE2}
+		{0BCA43C5-FF1B-4A39-8667-9C1982939182} = {94CD553B-E19A-4BEC-B887-A900E00D1AE2}
 	EndGlobalSection
 EndGlobal

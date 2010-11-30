@@ -1,4 +1,6 @@
 <Modules>
   <Module PersistentId="BDC379D0-4DC0-4534-9788-AB6445BD6261" ModuleId="Silverlight-Architecture" />
   <Module PersistentId="CE808EAC-5EAC-463C-A419-C63CEEA5C039" ModuleId="Silverlight-Architecture.Web" />
+  <Module PersistentId="E4920FE4-7926-423D-8779-0A1B5E896965" ModuleId="SilverlightArchitecture.UnitTests" />
+  <Module PersistentId="0BCA43C5-FF1B-4A39-8667-9C1982939182" ModuleId="SilverlightArchitecture.IntegrationTests" />
 </Modules>

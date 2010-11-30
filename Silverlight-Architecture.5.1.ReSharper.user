@@ -11,16 +11,18 @@
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PerformanceTips.txt/l:C!?Code?Silverlight-Architecture?PerformanceTips.txt" caret="281" fromTop="4" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml" caret="183" fromTop="2" />
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="22" fromTop="0" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="84" fromTop="4" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converts/f:ExampleConverter.cs" caret="0" fromTop="0" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="0" fromTop="0" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PeopleToWatch.txt/l:C!?Code?Silverlight-Architecture?PeopleToWatch.txt" caret="0" fromTop="0" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Using MVVM.txt/l:C!?Code?Silverlight-Architecture?Using MVVM.txt" caret="0" fromTop="0" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:NamingConventions.txt/l:C!?Code?Silverlight-Architecture?NamingConventions.txt" caret="813" fromTop="13" />
-      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="0" fromTop="0" />
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="866" fromTop="25" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1722" fromTop="19" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="0" fromTop="0" />
+      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="866" fromTop="25" />
+      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?Ninject.xml" caret="0" fromTop="0" />
+      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.Extensions.Conventions.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?extensions?Ninject.Extensions.Conventions.xml" caret="0" fromTop="0" />
+      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="460" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PerformanceTips.txt/l:C!?Code?Silverlight-Architecture?PerformanceTips.txt" caret="281" fromTop="4" />
@@ -40,6 +42,8 @@
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="666" fromTop="21" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="951" fromTop="25" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1722" fromTop="19" />
+      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="14" fromTop="1" />
+      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="387" fromTop="8" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

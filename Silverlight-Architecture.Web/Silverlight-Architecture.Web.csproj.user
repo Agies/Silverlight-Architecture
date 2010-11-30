@@ -4,7 +4,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <StartPageUrl>Silverlight-ArchitectureTestPage.aspx</StartPageUrl>
+          <StartPageUrl>SilverlightArchitecture.IntegrationTestsTestPage.aspx</StartPageUrl>
           <StartAction>SpecificPage</StartAction>
           <AspNetDebugging>True</AspNetDebugging>
           <SilverlightDebugging>True</SilverlightDebugging>
@@ -22,6 +22,8 @@
           <AlwaysStartWebServerOnDebug>True</AlwaysStartWebServerOnDebug>
           <ProjectOutputReferences>
             <Ref Project="{BDC379D0-4DC0-4534-9788-AB6445BD6261}" Folder="ClientBin">SilverlightArchitecture.xap</Ref>
+            <Ref Project="{E4920FE4-7926-423D-8779-0A1B5E896965}" Folder="ClientBin">SilverlightArchitecture.UnitTests.xap</Ref>
+            <Ref Project="{0BCA43C5-FF1B-4A39-8667-9C1982939182}" Folder="ClientBin">SilverlightArchitecture.IntegrationTests.xap</Ref>
           </ProjectOutputReferences>
         </WebProjectProperties>
       </FlavorProperties>
