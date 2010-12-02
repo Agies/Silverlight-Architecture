@@ -3,4 +3,6 @@
   <Module PersistentId="CE808EAC-5EAC-463C-A419-C63CEEA5C039" ModuleId="Silverlight-Architecture.Web" />
   <Module PersistentId="E4920FE4-7926-423D-8779-0A1B5E896965" ModuleId="SilverlightArchitecture.UnitTests" />
   <Module PersistentId="0BCA43C5-FF1B-4A39-8667-9C1982939182" ModuleId="SilverlightArchitecture.IntegrationTests" />
+  <Module PersistentId="6D4FB517-90DF-451A-A4EC-4E8CD7381B86" ModuleId="SilverlightArchitecture.Data" />
+  <Module PersistentId="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF" ModuleId="SilverlightArchitecture.Data_1" />
 </Modules>

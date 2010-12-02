@@ -1,0 +1,71 @@
+﻿<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+  <edmx:DataServices xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" m:DataServiceVersion="1.0">
+    <Schema Namespace="Sample" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+      <EntityType Name="Entity" Abstract="true" BaseType="Sample.BusinessBase">
+        <NavigationProperty Name="Addresses" Relationship="Sample.EntityAddress" FromRole="Entity" ToRole="Address" />
+      </EntityType>
+      <EntityType Name="Company" BaseType="Sample.Entity">
+        <Property Name="CompanyId" Type="Edm.Int32" Nullable="false" />
+        <NavigationProperty Name="Children" Relationship="Sample.CompanyCompany" FromRole="Company" ToRole="ParentCompany" />
+        <NavigationProperty Name="Parent" Relationship="Sample.CompanyCompany" FromRole="ParentCompany" ToRole="Company" />
+      </EntityType>
+      <EntityType Name="Person" BaseType="Sample.Entity">
+        <Property Name="FirstName" Type="Edm.String" Nullable="false" />
+        <Property Name="LastName" Type="Edm.String" Nullable="false" />
+      </EntityType>
+      <EntityType Name="Address" BaseType="Sample.BusinessBase">
+        <Property Name="EntityId" Type="Edm.Int32" Nullable="false" />
+        <Property Name="Address1" Type="Edm.String" Nullable="false" />
+        <Property Name="Address2" Type="Edm.String" Nullable="false" />
+        <NavigationProperty Name="Owner" Relationship="Sample.EntityAddress" FromRole="Address" ToRole="Entity" />
+      </EntityType>
+      <EntityType Name="BusinessBase" Abstract="true">
+        <Key>
+          <PropertyRef Name="Id" />
+        </Key>
+        <Property Name="Id" Type="Edm.Int32" Nullable="false" p8:StoreGeneratedPattern="Identity" xmlns:p8="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+        <Property Name="CreatedBy" Type="Edm.String" Nullable="false" />
+        <Property Name="CreatedDate" Type="Edm.DateTime" Nullable="false" />
+      </EntityType>
+      <Association Name="EntityAddress">
+        <End Role="Entity" Type="Sample.Entity" Multiplicity="1">
+          <OnDelete Action="Cascade" />
+        </End>
+        <End Role="Address" Type="Sample.Address" Multiplicity="*" />
+        <ReferentialConstraint>
+          <Principal Role="Entity">
+            <PropertyRef Name="Id" />
+          </Principal>
+          <Dependent Role="Address">
+            <PropertyRef Name="EntityId" />
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="CompanyCompany">
+        <End Role="Company" Type="Sample.Company" Multiplicity="1" />
+        <End Role="ParentCompany" Type="Sample.Company" Multiplicity="*" />
+        <ReferentialConstraint>
+          <Principal Role="Company">
+            <PropertyRef Name="Id" />
+          </Principal>
+          <Dependent Role="ParentCompany">
+            <PropertyRef Name="CompanyId" />
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+    </Schema>
+    <Schema Namespace="SilverlightArchitecture.Data" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+      <EntityContainer Name="SampleContainer" p7:LazyLoadingEnabled="true" m:IsDefaultEntityContainer="true" xmlns:p7="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+        <EntitySet Name="BusinessBases" EntityType="Sample.BusinessBase" />
+        <AssociationSet Name="EntityAddress" Association="Sample.EntityAddress">
+          <End Role="Entity" EntitySet="BusinessBases" />
+          <End Role="Address" EntitySet="BusinessBases" />
+        </AssociationSet>
+        <AssociationSet Name="CompanyCompany" Association="Sample.CompanyCompany">
+          <End Role="Company" EntitySet="BusinessBases" />
+          <End Role="ParentCompany" EntitySet="BusinessBases" />
+        </AssociationSet>
+      </EntityContainer>
+    </Schema>
+  </edmx:DataServices>
+</edmx:Edmx>

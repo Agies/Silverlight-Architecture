@@ -1,0 +1,17 @@
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\SilverlightArchitecture.IntegrationTests.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\SilverlightArchitecture.IntegrationTests.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\AppManifest.xaml
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\SilverlightArchitecture.IntegrationTests.xap
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\TestPage.html
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\Microsoft.Silverlight.Testing.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\Microsoft.Silverlight.Testing.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\Microsoft.Silverlight.Testing.xml
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.xml
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\obj\Debug\App.g.i.cs
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\obj\Debug\SilverlightArchitecture.IntegrationTests.g.resources
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\obj\Debug\SilverlightArchitecture.IntegrationTests.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\obj\Debug\SilverlightArchitecture.IntegrationTests.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.IntegrationTests\obj\Debug\XapCacheFile.xml

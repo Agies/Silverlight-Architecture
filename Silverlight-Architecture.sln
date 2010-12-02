@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight-Architecture", "Silverlight-Architecture\Silverlight-Architecture.csproj", "{BDC379D0-4DC0-4534-9788-AB6445BD6261}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture", "Silverlight-Architecture\SilverlightArchitecture.csproj", "{BDC379D0-4DC0-4534-9788-AB6445BD6261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight-Architecture.Web", "Silverlight-Architecture.Web\Silverlight-Architecture.Web.csproj", "{CE808EAC-5EAC-463C-A419-C63CEEA5C039}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Web", "Silverlight-Architecture.Web\SilverlightArchitecture.Web.csproj", "{CE808EAC-5EAC-463C-A419-C63CEEA5C039}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Support", "Support", "{71937A31-7A32-4809-B5D1-9865F3386AAC}"
 	ProjectSection(SolutionItems) = preProject
@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Uni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.IntegrationTests", "SilverlightArchitecture.IntegrationTests\SilverlightArchitecture.IntegrationTests.csproj", "{0BCA43C5-FF1B-4A39-8667-9C1982939182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Repository", "SilverlightArchitecture.Repository\SilverlightArchitecture.Repository.csproj", "{6D4FB517-90DF-451A-A4EC-4E8CD7381B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Data", "SilverlightArchitecture.Data\SilverlightArchitecture.Data.csproj", "{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +69,14 @@ Global
 		{0BCA43C5-FF1B-4A39-8667-9C1982939182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BCA43C5-FF1B-4A39-8667-9C1982939182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BCA43C5-FF1B-4A39-8667-9C1982939182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4FB517-90DF-451A-A4EC-4E8CD7381B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4FB517-90DF-451A-A4EC-4E8CD7381B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4FB517-90DF-451A-A4EC-4E8CD7381B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4FB517-90DF-451A-A4EC-4E8CD7381B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

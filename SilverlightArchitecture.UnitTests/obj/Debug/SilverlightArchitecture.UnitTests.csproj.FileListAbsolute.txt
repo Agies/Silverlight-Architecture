@@ -1,0 +1,17 @@
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\SilverlightArchitecture.UnitTests.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\SilverlightArchitecture.UnitTests.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\AppManifest.xaml
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\SilverlightArchitecture.UnitTests.xap
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\TestPage.html
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\Microsoft.Silverlight.Testing.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\Microsoft.Silverlight.Testing.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\Microsoft.Silverlight.Testing.xml
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.xml
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\obj\Debug\App.g.i.cs
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\obj\Debug\SilverlightArchitecture.UnitTests.g.resources
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\obj\Debug\SilverlightArchitecture.UnitTests.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\obj\Debug\SilverlightArchitecture.UnitTests.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\obj\Debug\XapCacheFile.xml
