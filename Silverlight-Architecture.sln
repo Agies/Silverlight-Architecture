@@ -22,6 +22,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThirdParty", "ThirdParty", 
 		ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.XML = ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.XML
 		ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.dll = ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.dll
 		ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.XML = ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.XML
+		ThirdParty\MEF\MefContrib.Hosting.Interception.Castle.Silverlight.dll = ThirdParty\MEF\MefContrib.Hosting.Interception.Castle.Silverlight.dll
+		ThirdParty\MEF\MefContrib.Hosting.Interception.Castle.Silverlight.xml = ThirdParty\MEF\MefContrib.Hosting.Interception.Castle.Silverlight.xml
+		ThirdParty\MEF\MefContrib.Hosting.Interception.LinFu.Silverlight.dll = ThirdParty\MEF\MefContrib.Hosting.Interception.LinFu.Silverlight.dll
+		ThirdParty\MEF\MefContrib.Hosting.Interception.LinFu.Silverlight.xml = ThirdParty\MEF\MefContrib.Hosting.Interception.LinFu.Silverlight.xml
+		ThirdParty\MEF\MefContrib.Integration.Unity.Silverlight.dll = ThirdParty\MEF\MefContrib.Integration.Unity.Silverlight.dll
+		ThirdParty\MEF\MefContrib.Integration.Unity.Silverlight.xml = ThirdParty\MEF\MefContrib.Integration.Unity.Silverlight.xml
+		ThirdParty\MEF\MefContrib.Silverlight.dll = ThirdParty\MEF\MefContrib.Silverlight.dll
+		ThirdParty\MEF\MefContrib.Silverlight.xml = ThirdParty\MEF\MefContrib.Silverlight.xml
 		ThirdParty\Ninject\Ninject.dll = ThirdParty\Ninject\Ninject.dll
 		ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.dll = ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.dll
 		ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.pdb = ThirdParty\Ninject\extensions\Ninject.Extensions.Conventions.pdb
@@ -46,6 +54,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Repository", "SilverlightArchitecture.Repository\SilverlightArchitecture.Repository.csproj", "{6D4FB517-90DF-451A-A4EC-4E8CD7381B86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Data", "SilverlightArchitecture.Data\SilverlightArchitecture.Data.csproj", "{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Contracts", "SilverlightArchitecture.Contracts\SilverlightArchitecture.Contracts.csproj", "{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +87,10 @@ Global
 		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

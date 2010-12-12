@@ -1,19 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net;
+using System.ComponentModel.Composition;
+using System.ComponentModel.Composition.Hosting;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Animation;
-using System.Windows.Shapes;
+using MefContrib.Hosting.Generics;
+using SilverlightArchitecture.Repository;
+using SilverlightArchitecture.Repository.SampleData;
 
 namespace SilverlightArchitecture
 {
     public partial class App : Application
     {
+        [Import]
+        public MainPage MainPage { get; set; }
+
+        [Import]
+        public IRepository<BusinessBase> Repository { get; set; }
 
         public App()
         {
@@ -26,7 +28,12 @@ namespace SilverlightArchitecture
 
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            this.RootVisual = new MainPage();
+            var aggCatalog = new AggregateCatalog();
+            aggCatalog.Catalogs.Add(new DeploymentCatalog());
+            var genericCatalog = new GenericCatalog(aggCatalog, new RepositoryRegistry());
+            CompositionHost.Initialize(genericCatalog);
+            CompositionInitializer.SatisfyImports(this);
+            this.RootVisual = MainPage;
         }
 
         private void Application_Exit(object sender, EventArgs e)

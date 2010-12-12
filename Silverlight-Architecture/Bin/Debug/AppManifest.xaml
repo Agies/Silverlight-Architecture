@@ -1,11 +1,22 @@
-﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" RuntimeVersion="4.0.50826.0">
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SilverlightArchitecture" EntryPointType="SilverlightArchitecture.App" RuntimeVersion="4.0.50826.0">
   <Deployment.Parts>
     <AssemblyPart x:Name="SilverlightArchitecture" Source="SilverlightArchitecture.dll" />
+    <AssemblyPart x:Name="Castle.Core" Source="Castle.Core.dll" />
     <AssemblyPart x:Name="GalaSoft.MvvmLight.Extras.SL4" Source="GalaSoft.MvvmLight.Extras.SL4.dll" />
     <AssemblyPart x:Name="GalaSoft.MvvmLight.SL4" Source="GalaSoft.MvvmLight.SL4.dll" />
+    <AssemblyPart x:Name="LinFu.DynamicProxy" Source="LinFu.DynamicProxy.dll" />
+    <AssemblyPart x:Name="MefContrib.Hosting.Interception.Castle.Silverlight" Source="MefContrib.Hosting.Interception.Castle.Silverlight.dll" />
+    <AssemblyPart x:Name="MefContrib.Hosting.Interception.LinFu.Silverlight" Source="MefContrib.Hosting.Interception.LinFu.Silverlight.dll" />
+    <AssemblyPart x:Name="MefContrib.Integration.Unity.Silverlight" Source="MefContrib.Integration.Unity.Silverlight.dll" />
+    <AssemblyPart x:Name="MefContrib.Silverlight" Source="MefContrib.Silverlight.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Unity.Silverlight" Source="Microsoft.Practices.Unity.Silverlight.dll" />
     <AssemblyPart x:Name="SilverlightArchitecture.Repository" Source="SilverlightArchitecture.Repository.dll" />
-    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition.Initialization" Source="System.ComponentModel.Composition.Initialization.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
     <AssemblyPart x:Name="System.Data.Services.Client" Source="System.Data.Services.Client.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
     <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
   </Deployment.Parts>
 </Deployment>

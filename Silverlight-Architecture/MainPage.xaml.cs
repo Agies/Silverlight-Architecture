@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
 using System.Linq;
 using System.Net;
 using System.Windows;
@@ -12,6 +13,7 @@ using System.Windows.Shapes;
 
 namespace SilverlightArchitecture
 {
+    [Export]
     public partial class MainPage : UserControl
     {
         public MainPage()

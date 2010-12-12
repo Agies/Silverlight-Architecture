@@ -21,8 +21,7 @@
     <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
     <XapFilename>SilverlightArchitecture.xap</XapFilename>
     <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
-    <SilverlightAppEntry>
-    </SilverlightAppEntry>
+    <SilverlightAppEntry>SilverlightArchitecture.App</SilverlightAppEntry>
     <TestPageFileName>Silverlight_ArchitectureTestPage.html</TestPageFileName>
     <CreateTestPage>true</CreateTestPage>
     <ValidateXaml>true</ValidateXaml>
@@ -61,13 +60,41 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>..\ThirdParty\MEF\Dependencies\Castle.Core.dll</HintPath>
+    </Reference>
     <Reference Include="GalaSoft.MvvmLight.Extras.SL4">
       <HintPath>..\ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.dll</HintPath>
     </Reference>
     <Reference Include="GalaSoft.MvvmLight.SL4">
       <HintPath>..\ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.dll</HintPath>
     </Reference>
+    <Reference Include="LinFu.DynamicProxy">
+      <HintPath>..\ThirdParty\MEF\Dependencies\LinFu.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="MefContrib.Hosting.Interception.Castle.Silverlight">
+      <HintPath>..\ThirdParty\MEF\MefContrib.Hosting.Interception.Castle.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="MefContrib.Hosting.Interception.LinFu.Silverlight">
+      <HintPath>..\ThirdParty\MEF\MefContrib.Hosting.Interception.LinFu.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="MefContrib.Integration.Unity.Silverlight">
+      <HintPath>..\ThirdParty\MEF\MefContrib.Integration.Unity.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="MefContrib.Silverlight">
+      <HintPath>..\ThirdParty\MEF\MefContrib.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\ThirdParty\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Silverlight">
+      <HintPath>..\ThirdParty\MEF\Dependencies\Microsoft.Practices.Unity.Silverlight.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib" />
+    <Reference Include="System.ComponentModel.Composition, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.Composition.Initialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.DataAnnotations, Version=2.0.5.0, Culture=neutral, PublicKeyToken=ddd0da4d3e678217, processorArchitecture=MSIL" />
+    <Reference Include="System.Data.Services.Client, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Windows" />
     <Reference Include="system" />
     <Reference Include="System.Core" />

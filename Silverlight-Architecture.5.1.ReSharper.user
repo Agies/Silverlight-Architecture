@@ -28,23 +28,17 @@
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Web.config" caret="273" fromTop="7" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:App.Config" caret="59" fromTop="2" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:Sample.Designer.cs" caret="1804" fromTop="22" />
-      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="460" fromTop="9" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="454" fromTop="15" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/d:Service References/d:SampleData/f:Reference.cs" caret="1631" fromTop="0" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="807" fromTop="25" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="1112" fromTop="20" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="335" fromTop="11" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="0" fromTop="0" />
+      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="29" fromTop="1" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="523" fromTop="18" />
+      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:MefContrib.Silverlight.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?MEF?MefContrib.Silverlight.xml" caret="0" fromTop="0" />
+      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:MefContrib.Integration.Unity.Silverlight.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?MEF?MefContrib.Integration.Unity.Silverlight.xml" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="722" fromTop="24" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="191" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="951" fromTop="25" />
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1722" fromTop="19" />
-      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="14" fromTop="1" />
-      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="387" fromTop="8" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Sample.svc.cs" caret="320" fromTop="11" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Web.config" caret="566" fromTop="8" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Sample.svc.cs" caret="727" fromTop="19" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="943" fromTop="21" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="256" fromTop="11" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="166" fromTop="6" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="1311" fromTop="26" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="454" fromTop="15" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="564" fromTop="11" />
@@ -65,6 +59,16 @@
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="806" fromTop="25" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="770" fromTop="13" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="1112" fromTop="20" />
+      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="464" fromTop="10" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="350" fromTop="10" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="163" fromTop="3" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="754" fromTop="16" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="2767" fromTop="30" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="2767" fromTop="17" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="762" fromTop="24" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="371" fromTop="7" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="144" fromTop="5" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -89,17 +93,17 @@
       <Item value="IEnumerable" priority="3" />
       <Item value="action" priority="2" />
       <Item value="IRepository" priority="0" />
-      <Item value="var" priority="3" />
+      <Item value="var" priority="5" />
       <Item value="Uri`0" priority="0" />
-      <Item value="new" priority="2" />
+      <Item value="new" priority="9" />
       <Item value="Uri" priority="0" />
       <Item value="string" priority="0" />
-      <Item value="return" priority="4" />
+      <Item value="return" priority="5" />
       <Item value="null" priority="0" />
       <Item value="SampleContainer`0" priority="1" />
       <Item value="SampleData" priority="1" />
       <Item value="uri" priority="0" />
-      <Item value="typeof" priority="1" />
+      <Item value="typeof" priority="3" />
       <Item value="query" priority="2" />
       <Item value="ar" priority="1" />
       <Item value="object" priority="2" />
@@ -130,13 +134,30 @@
       <Item value="callback" priority="0" />
       <Item value="IAsyncResult`0" priority="0" />
       <Item value="dataService" priority="2" />
-      <Item value="this" priority="1" />
+      <Item value="this" priority="2" />
       <Item value="saveables" priority="0" />
       <Item value="BusinessBase`0" priority="1" />
       <Item value="where" priority="0" />
       <Item value="foreach" priority="0" />
       <Item value="AddToBusinessBases`0" priority="0" />
       <Item value="saveable" priority="0" />
+      <Item value="MainPage`0" priority="1" />
+      <Item value="MainPage" priority="0" />
+      <Item value="Import" priority="0" />
+      <Item value="AggregateCatalog`0" priority="0" />
+      <Item value="LayoutCycleException`0" priority="0" />
+      <Item value="AssemblyCatalog`0" priority="0" />
+      <Item value="App`0" priority="0" />
+      <Item value="assemCatalog" priority="1" />
+      <Item value="aggCatalog" priority="1" />
+      <Item value="MefContrib" priority="0" />
+      <Item value="CompositionServices`0" priority="0" />
+      <Item value="ContractServices`0" priority="0" />
+      <Item value="PartRegistryLocator" priority="0" />
+      <Item value="genericCatalog" priority="0" />
+      <Item value="GenericContractTypeMapping`0" priority="0" />
+      <Item value="Repository" priority="0" />
+      <Item value="TypeCatalog`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Browser.HtmlPage">
       <Item value="Document" priority="0" />
@@ -152,6 +173,7 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Type">
       <Item value="Name" priority="2" />
+      <Item value="Assembly" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Data.Services.Client.DataServiceQuery`1">
       <Item value="BeginExecute`0" priority="1" />
@@ -176,6 +198,18 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
       <Item value="OfType`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.Composition.CompositionInitializer">
+      <Item value="SatisfyImports`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.Composition.Hosting.CompositionHost">
+      <Item value="Initialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.Composition.Hosting.AggregateCatalog">
+      <Item value="Catalogs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Add`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

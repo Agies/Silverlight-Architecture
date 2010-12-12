@@ -1,10 +1,12 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
 using System.Linq;
 using System.Windows.Browser;
 
 namespace SilverlightArchitecture.Repository.SampleData
 {
+    [InheritedExport]
     public interface IDataService
     {
         IQueryable<T> CreateQuery<T>();
@@ -15,8 +17,11 @@ namespace SilverlightArchitecture.Repository.SampleData
 
     public partial class SampleContainer : IDataService
     {
+        public static readonly Uri Location = new Uri(HtmlPage.Document.DocumentUri, "Sample.svc");
+        
+        [ImportingConstructor]
         public SampleContainer()
-            : base(new Uri(HtmlPage.Document.DocumentUri, "Sample.svc"))
+            : this(Location)
         {
             
         }

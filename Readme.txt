@@ -7,4 +7,5 @@ Action Items
 6. Create an example of using the messaging pattern
 7. Create an example of using the command pattern
 8. Create an example of using the annotation/validation framework
-9. Setup a basic repository pattern using WCF/OData
+!9. Setup a basic repository pattern using WCF/OData
+!10. INPC snippet

@@ -1,0 +1,5 @@
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\Bin\Debug\SilverlightArchitecture.Contracts.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\Bin\Debug\SilverlightArchitecture.Contracts.pdb
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\obj\Debug\SilverlightArchitecture.Contracts.dll
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\obj\Debug\SilverlightArchitecture.Contracts.pdb

@@ -5,4 +5,5 @@
   <Module PersistentId="0BCA43C5-FF1B-4A39-8667-9C1982939182" ModuleId="SilverlightArchitecture.IntegrationTests" />
   <Module PersistentId="6D4FB517-90DF-451A-A4EC-4E8CD7381B86" ModuleId="SilverlightArchitecture.Data" />
   <Module PersistentId="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF" ModuleId="SilverlightArchitecture.Data_1" />
+  <Module PersistentId="117EC957-BC7C-4F14-A3EE-D8BE73CB43CB" ModuleId="SilverlightArchitecture.Contracts" />
 </Modules>

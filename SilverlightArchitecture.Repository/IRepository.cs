@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
 using System.Linq.Expressions;
 
 namespace SilverlightArchitecture.Repository
@@ -9,6 +10,7 @@ namespace SilverlightArchitecture.Repository
         
     }
 
+    [InheritedExport]
     public interface IRepository<T> : IRepository
     {
         void All(Action<IEnumerable<T>> action, object userState);

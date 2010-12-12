@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
 using System.Data.Services.Client;
 using System.Linq;
 using System.Linq.Expressions;
@@ -9,7 +10,7 @@ namespace SilverlightArchitecture.Repository
 {
     public abstract class Repository
     {
-        protected static IDataService Container;
+        protected IDataService Container;
 
         protected Repository(IDataService dataService)
         {
@@ -19,6 +20,7 @@ namespace SilverlightArchitecture.Repository
 
     public class Repository<T> : Repository, IRepository<T> where T : BusinessBase
     {
+        [ImportingConstructor]
         public Repository(IDataService dataService) : base(dataService) { }
 
         public void All(Action<IEnumerable<T>> action, object userState)
