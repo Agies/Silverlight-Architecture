@@ -9,17 +9,10 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PerformanceTips.txt/l:C!?Code?Silverlight-Architecture?PerformanceTips.txt" caret="281" fromTop="4" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml" caret="183" fromTop="2" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="84" fromTop="4" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converts/f:ExampleConverter.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="0" fromTop="0" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PeopleToWatch.txt/l:C!?Code?Silverlight-Architecture?PeopleToWatch.txt" caret="0" fromTop="0" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Using MVVM.txt/l:C!?Code?Silverlight-Architecture?Using MVVM.txt" caret="0" fromTop="0" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:NamingConventions.txt/l:C!?Code?Silverlight-Architecture?NamingConventions.txt" caret="813" fromTop="13" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1722" fromTop="19" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="0" fromTop="0" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="866" fromTop="25" />
       <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?Ninject.xml" caret="0" fromTop="0" />
       <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.Extensions.Conventions.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?extensions?Ninject.Extensions.Conventions.xml" caret="0" fromTop="0" />
@@ -28,47 +21,56 @@
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Web.config" caret="273" fromTop="7" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:App.Config" caret="59" fromTop="2" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:Sample.Designer.cs" caret="1804" fromTop="22" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/d:Service References/d:SampleData/f:Reference.cs" caret="1631" fromTop="0" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="335" fromTop="11" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="0" fromTop="0" />
-      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="29" fromTop="1" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="523" fromTop="18" />
       <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:MefContrib.Silverlight.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?MEF?MefContrib.Silverlight.xml" caret="0" fromTop="0" />
       <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:MefContrib.Integration.Unity.Silverlight.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?MEF?MefContrib.Integration.Unity.Silverlight.xml" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="722" fromTop="24" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="191" fromTop="6" />
+      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Silverlight-ArchitectureTestPage.html" caret="2393" fromTop="36" />
+      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Silverlight-ArchitectureTestPage.aspx" caret="2338" fromTop="23" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="321" fromTop="13" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:RepositoryRegistry.cs" caret="326" fromTop="10" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/d:Service References/d:SampleData/f:Reference.cs" caret="671" fromTop="18" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="348" fromTop="12" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="850" fromTop="23" />
+      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="44" fromTop="2" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converters/f:ExampleConverter.cs" caret="40" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1350" fromTop="19" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="167" fromTop="5" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="385" fromTop="11" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1269" fromTop="18" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="1055" fromTop="7" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="514" fromTop="3" />
     </RecentFiles>
     <RecentEdits>
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="1311" fromTop="26" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="454" fromTop="15" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="564" fromTop="11" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="509" fromTop="10" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="247" fromTop="12" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="163" fromTop="2" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="1500" fromTop="27" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="443" fromTop="16" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="313" fromTop="12" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="626" fromTop="22" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="136" fromTop="4" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="643" fromTop="15" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="48" fromTop="1" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="923" fromTop="30" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="527" fromTop="15" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="1192" fromTop="34" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="1675" fromTop="27" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="806" fromTop="25" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="770" fromTop="13" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="1112" fromTop="20" />
-      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="464" fromTop="10" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="350" fromTop="10" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="163" fromTop="3" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="754" fromTop="16" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="2767" fromTop="30" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="2767" fromTop="17" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="762" fromTop="24" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="0" fromTop="0" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="371" fromTop="7" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Class1.cs" caret="144" fromTop="5" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="804" fromTop="23" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1161" fromTop="29" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="749" fromTop="21" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1161" fromTop="30" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="527" fromTop="14" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="348" fromTop="12" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="40" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1756" fromTop="16" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="227" fromTop="15" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="26" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="35" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="23" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="26" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="217" fromTop="7" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="153" fromTop="5" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converters/f:ExampleConverter.cs" caret="40" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="582" fromTop="18" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="405" fromTop="6" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="541" fromTop="1" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1228" fromTop="26" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="883" fromTop="12" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="356" fromTop="11" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="586" fromTop="20" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="198" fromTop="9" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="124" fromTop="5" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1315" fromTop="28" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="674" fromTop="5" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="921" fromTop="5" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="532" fromTop="3" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -85,22 +87,22 @@
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
       <Item value="interface" priority="2" />
-      <Item value="public" priority="3" />
+      <Item value="public" priority="5" />
       <Item value="void" priority="2" />
       <Item value="Func" priority="0" />
       <Item value="T`0" priority="7" />
       <Item value="Action`0" priority="2" />
       <Item value="IEnumerable" priority="3" />
       <Item value="action" priority="2" />
-      <Item value="IRepository" priority="0" />
-      <Item value="var" priority="5" />
-      <Item value="Uri`0" priority="0" />
-      <Item value="new" priority="9" />
+      <Item value="IRepository" priority="2" />
+      <Item value="var" priority="6" />
+      <Item value="Uri`0" priority="1" />
+      <Item value="new" priority="13" />
       <Item value="Uri" priority="0" />
-      <Item value="string" priority="0" />
-      <Item value="return" priority="5" />
+      <Item value="string" priority="13" />
+      <Item value="return" priority="6" />
       <Item value="null" priority="0" />
-      <Item value="SampleContainer`0" priority="1" />
+      <Item value="SampleContainer`0" priority="2" />
       <Item value="SampleData" priority="1" />
       <Item value="uri" priority="0" />
       <Item value="typeof" priority="3" />
@@ -122,11 +124,11 @@
       <Item value="Exception`0" priority="1" />
       <Item value="SampleContainer" priority="0" />
       <Item value="Repository`0" priority="0" />
-      <Item value="static" priority="1" />
+      <Item value="static" priority="2" />
       <Item value="abstract" priority="0" />
       <Item value="lock" priority="0" />
       <Item value="class" priority="0" />
-      <Item value="IDataService`0" priority="3" />
+      <Item value="IDataService`0" priority="7" />
       <Item value="base" priority="6" />
       <Item value="ResolveNameFromType`0" priority="0" />
       <Item value="Container" priority="2" />
@@ -134,30 +136,57 @@
       <Item value="callback" priority="0" />
       <Item value="IAsyncResult`0" priority="0" />
       <Item value="dataService" priority="2" />
-      <Item value="this" priority="2" />
+      <Item value="this" priority="3" />
       <Item value="saveables" priority="0" />
-      <Item value="BusinessBase`0" priority="1" />
+      <Item value="BusinessBase`0" priority="2" />
       <Item value="where" priority="0" />
       <Item value="foreach" priority="0" />
       <Item value="AddToBusinessBases`0" priority="0" />
       <Item value="saveable" priority="0" />
       <Item value="MainPage`0" priority="1" />
       <Item value="MainPage" priority="0" />
-      <Item value="Import" priority="0" />
+      <Item value="Import" priority="2" />
       <Item value="AggregateCatalog`0" priority="0" />
       <Item value="LayoutCycleException`0" priority="0" />
       <Item value="AssemblyCatalog`0" priority="0" />
       <Item value="App`0" priority="0" />
       <Item value="assemCatalog" priority="1" />
-      <Item value="aggCatalog" priority="1" />
+      <Item value="aggCatalog" priority="2" />
       <Item value="MefContrib" priority="0" />
       <Item value="CompositionServices`0" priority="0" />
       <Item value="ContractServices`0" priority="0" />
       <Item value="PartRegistryLocator" priority="0" />
       <Item value="genericCatalog" priority="0" />
       <Item value="GenericContractTypeMapping`0" priority="0" />
-      <Item value="Repository" priority="0" />
-      <Item value="TypeCatalog`0" priority="0" />
+      <Item value="Repository" priority="1" />
+      <Item value="TypeCatalog`0" priority="1" />
+      <Item value="RepositoryRegistry`0" priority="1" />
+      <Item value="prop" priority="9" />
+      <Item value="GenericContractRegistryBase`0" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="IGenericContractRegistry`0" priority="0" />
+      <Item value="IRepository`0" priority="0" />
+      <Item value="DataService" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="ImportingConstructor" priority="0" />
+      <Item value="assemCatalog2" priority="0" />
+      <Item value="DeploymentCatalog`0" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="handler" priority="1" />
+      <Item value="PropertyChangedEventArgs" priority="0" />
+      <Item value="propertyName" priority="0" />
+      <Item value="propn" priority="4" />
+      <Item value="int" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="ExampleViewModel`0" priority="0" />
+      <Item value="Loaded" priority="0" />
+      <Item value="initialized" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="DataContext" priority="0" />
+      <Item value="ViewModel" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Browser.HtmlPage">
       <Item value="Document" priority="0" />
@@ -206,10 +235,13 @@
       <Item value="Initialize`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.ComponentModel.Composition.Hosting.AggregateCatalog">
-      <Item value="Catalogs" priority="0" />
+      <Item value="Catalogs" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
-      <Item value="Add`0" priority="0" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

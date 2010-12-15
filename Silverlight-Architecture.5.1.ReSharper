@@ -4,9 +4,9 @@
       <Template uid="92267a5a-56b4-49be-9845-d1ca982ba05b" shortcut="propn" description="INotify Property Changed Snippet" text="private $type$ $name$;&#xD;&#xA;public $type$ $Name$&#xD;&#xA;{&#xD;&#xA;	get { return $name$;}&#xD;&#xA;	set&#xD;&#xA;	{&#xD;&#xA;		if ($name$ == value) return;&#xD;&#xA;		$name$ = value;&#xD;&#xA;		RaisePropertyChanged(&quot;$Name$&quot;);&#xD;&#xA;	}&#xD;&#xA;&#xD;&#xA;}" reformat="False" shortenQualifiedReferences="False">
         <Categories />
         <Variables>
-          <Variable name="type" expression="" initialRange="0" />
-          <Variable name="name" expression="decapitalize(Name)" initialRange="-1" />
           <Variable name="Name" expression="" initialRange="0" />
+          <Variable name="type" expression="" initialRange="1" />
+          <Variable name="name" expression="decapitalize(Name)" initialRange="-1" />
         </Variables>
         <CustomProperties />
       </Template>

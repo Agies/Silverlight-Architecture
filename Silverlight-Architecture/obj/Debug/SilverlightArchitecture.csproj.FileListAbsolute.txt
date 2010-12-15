@@ -120,3 +120,4 @@ C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\Microsoft.Pr
 C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
 C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\Views\ExampleView.g.i.cs

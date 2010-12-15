@@ -1,5 +1,5 @@
-﻿<xapCache source="C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\SilverlightArchitecture.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/11/2010 11:36:38 PM">
-  <file source="C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\SilverlightArchitecture.dll" archivePath="SilverlightArchitecture.dll" lastWriteTime="12/11/2010 11:36:37 PM" />
+﻿<xapCache source="C:\Code\Silverlight-Architecture\Silverlight-Architecture\Bin\Debug\SilverlightArchitecture.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/14/2010 10:10:57 PM">
+  <file source="C:\Code\Silverlight-Architecture\Silverlight-Architecture\obj\Debug\SilverlightArchitecture.dll" archivePath="SilverlightArchitecture.dll" lastWriteTime="12/14/2010 10:10:57 PM" />
   <file source="C:\Code\Silverlight-Architecture\ThirdParty\MEF\Dependencies\Castle.Core.dll" archivePath="Castle.Core.dll" lastWriteTime="11/23/2010 11:31:12 AM" />
   <file source="C:\Code\Silverlight-Architecture\ThirdParty\MvvmLight\GalaSoft.MvvmLight.Extras.SL4.dll" archivePath="GalaSoft.MvvmLight.Extras.SL4.dll" lastWriteTime="3/23/2010 5:52:28 PM" />
   <file source="C:\Code\Silverlight-Architecture\ThirdParty\MvvmLight\GalaSoft.MvvmLight.SL4.dll" archivePath="GalaSoft.MvvmLight.SL4.dll" lastWriteTime="3/23/2010 5:52:30 PM" />
@@ -10,7 +10,7 @@
   <file source="C:\Code\Silverlight-Architecture\ThirdParty\MEF\MefContrib.Silverlight.dll" archivePath="MefContrib.Silverlight.dll" lastWriteTime="11/23/2010 11:31:16 AM" />
   <file source="C:\Code\Silverlight-Architecture\ThirdParty\Microsoft.Practices.ServiceLocation.dll" archivePath="Microsoft.Practices.ServiceLocation.dll" lastWriteTime="1/13/2009 4:57:14 PM" />
   <file source="C:\Code\Silverlight-Architecture\ThirdParty\MEF\Dependencies\Microsoft.Practices.Unity.Silverlight.dll" archivePath="Microsoft.Practices.Unity.Silverlight.dll" lastWriteTime="11/23/2010 11:31:12 AM" />
-  <file source="C:\Code\Silverlight-Architecture\SilverlightArchitecture.Repository\Bin\Debug\SilverlightArchitecture.Repository.dll" archivePath="SilverlightArchitecture.Repository.dll" lastWriteTime="12/11/2010 11:24:03 PM" />
+  <file source="C:\Code\Silverlight-Architecture\SilverlightArchitecture.Repository\Bin\Debug\SilverlightArchitecture.Repository.dll" archivePath="SilverlightArchitecture.Repository.dll" lastWriteTime="12/14/2010 9:47:14 PM" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.Composition.dll" archivePath="System.ComponentModel.Composition.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.Composition.Initialization.dll" archivePath="System.ComponentModel.Composition.Initialization.dll" lastWriteTime="8/26/2010 2:17:48 AM" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="8/26/2010 2:17:48 AM" />

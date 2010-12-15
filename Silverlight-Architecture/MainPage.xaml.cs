@@ -1,24 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.Composition;
-using System.Linq;
-using System.Net;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Animation;
-using System.Windows.Shapes;
+﻿using System.ComponentModel.Composition;
 
 namespace SilverlightArchitecture
 {
     [Export]
-    public partial class MainPage : UserControl
+    public partial class MainPage
     {
+        private bool initialized;
+        
+        [Import]
+        public ExampleViewModel ViewModel { get; set; }
+
         public MainPage()
         {
             InitializeComponent();
+            Loaded += MainPage_Loaded;
+        }
+
+        void MainPage_Loaded(object sender, System.Windows.RoutedEventArgs e)
+        {
+            if (initialized) return;
+            initialized = true;
+
+            DataContext = ViewModel;
         }
     }
 }
