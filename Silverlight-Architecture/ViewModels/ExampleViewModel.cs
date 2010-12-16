@@ -1,66 +1,112 @@
-﻿using System.ComponentModel;
+﻿using System.Collections.ObjectModel;
 using System.ComponentModel.Composition;
+using System.Linq;
+using GalaSoft.MvvmLight.Command;
+using GalaSoft.MvvmLight.Messaging;
 
 namespace SilverlightArchitecture
 {
     [Export]
-    public class ExampleViewModel : INotifyPropertyChanged
+    public class ExampleViewModel : ExampleDetailViewModel<ExampleModel>
     {
+        [ImportingConstructor]
+        public ExampleViewModel(IModelRepository<ExampleModel> modelRepository) : base(modelRepository)
+        {
+
+        }
+
         // basic binding
-        private int employeeCode;
         public int EmployeeCode
         {
-            get { return employeeCode;}
+            get { return Model.EmployeeCode;}
             set
             {
-                if (employeeCode == value) return;
-                employeeCode = value;
+                if (Model.EmployeeCode == value) return;
+                Model.EmployeeCode = value;
                 RaisePropertyChanged("EmployeeCode");
             }
-
         }
 
         // Secondary change binding
-        private string firstName;
         public string FirstName
         {
-            get { return firstName;}
+            get { return Model.FirstName;}
             set
             {
-                if (firstName == value) return;
-                firstName = value;
+                if (Model.FirstName == value) return;
+                Model.FirstName = value;
                 RaisePropertyChanged("FirstName");
+                RaisePropertyChanged("FullName");
             }
         }
 
         // Secondary change binding
-        private string lastName;
         public string LastName
         {
-            get { return lastName;}
+            get { return Model.LastName;}
             set
             {
-                if (lastName == value) return;
-                lastName = value;
+                if (Model.LastName == value) return;
+                Model.LastName = value;
                 RaisePropertyChanged("LastName");
+                RaisePropertyChanged("FullName");
             }
         }
 
         // One-way binding
-        private string fullName = "Test Name";
         public string FullName
         {
-            get { return fullName;}
+            get { return Model.GetFullName();}
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
-        protected void RaisePropertyChanged(string propertyName)
+        private ObservableCollection<ProjectViewModel> projects;
+        public ObservableCollection<ProjectViewModel> Projects
         {
-            var handler = PropertyChanged;
-            if (handler != null)
+            get { return projects;}
+            set
             {
-                handler(this, new PropertyChangedEventArgs(propertyName));
+                if (projects == value) return;
+                projects = value;
+                RaisePropertyChanged("Projects");
             }
+
         }
+
+        private RelayCommand refreshCommand;
+        public RelayCommand RefreshCommand
+        {
+            get { return (refreshCommand ?? (refreshCommand = new RelayCommand(Refresh, CanRefresh))); }
+        }
+
+        private bool CanRefresh()
+        {
+            return true;
+        }
+
+        protected override void Refresh()
+        {
+            base.Refresh();
+            Projects = new ObservableCollection<ProjectViewModel>(Model.Projects.Select(p=>new ProjectViewModel(p)));
+            RaisePropertyChanged("FirstName");
+            RaisePropertyChanged("LastName");
+            RaisePropertyChanged("FullName");
+        }
+
+        #region Message Brokering
+        private ProjectViewModel selectedItem;
+        public ProjectViewModel SelectedItem
+        {
+            get { return selectedItem;}
+            set
+            {
+                if (selectedItem == value) return;
+                selectedItem = value;
+                RaisePropertyChanged("SelectedItem");
+                Messenger.Default.Send(new GenericMessage<ProjectViewModel>(selectedItem));
+            }
+
+        }
+        #endregion
+
     }
 }

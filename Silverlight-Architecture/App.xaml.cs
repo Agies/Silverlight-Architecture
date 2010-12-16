@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.ComponentModel.Composition;
 using System.ComponentModel.Composition.Hosting;
 using System.Windows;
+using GalaSoft.MvvmLight.Messaging;
 using MefContrib.Hosting.Generics;
-using SilverlightArchitecture.Repository;
-using SilverlightArchitecture.Repository.SampleData;
 
 namespace SilverlightArchitecture
 {
@@ -13,9 +12,6 @@ namespace SilverlightArchitecture
     {
         [Import]
         public MainPage MainPage { get; set; }
-
-        [Import]
-        public IRepository<BusinessBase> Repository { get; set; }
 
         public App()
         {
@@ -34,6 +30,12 @@ namespace SilverlightArchitecture
             CompositionHost.Initialize(genericCatalog);
             CompositionInitializer.SatisfyImports(this);
             this.RootVisual = MainPage;
+            Messenger.Default.Register<GenericMessage<ProjectViewModel>>(this, HandleChange);
+        }
+
+        private void HandleChange(GenericMessage<ProjectViewModel> obj)
+        {
+            
         }
 
         private void Application_Exit(object sender, EventArgs e)

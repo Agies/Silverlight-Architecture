@@ -9,10 +9,6 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:PeopleToWatch.txt/l:C!?Code?Silverlight-Architecture?PeopleToWatch.txt" caret="0" fromTop="0" />
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Using MVVM.txt/l:C!?Code?Silverlight-Architecture?Using MVVM.txt" caret="0" fromTop="0" />
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:NamingConventions.txt/l:C!?Code?Silverlight-Architecture?NamingConventions.txt" caret="813" fromTop="13" />
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Guidance.txt/l:C!?Code?Silverlight-Architecture?Guidance.txt" caret="1722" fromTop="19" />
       <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="866" fromTop="25" />
       <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?Ninject.xml" caret="0" fromTop="0" />
       <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.Extensions.Conventions.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?extensions?Ninject.Extensions.Conventions.xml" caret="0" fromTop="0" />
@@ -31,46 +27,50 @@
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="348" fromTop="12" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="850" fromTop="23" />
       <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="44" fromTop="2" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converters/f:ExampleConverter.cs" caret="40" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1350" fromTop="19" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="167" fromTop="5" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="385" fromTop="11" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1269" fromTop="18" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="1055" fromTop="7" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="514" fromTop="3" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="433" fromTop="14" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:Project.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleDetailViewModel.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1304" fromTop="29" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="2630" fromTop="10" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="529" fromTop="2" />
+      <File id="E4920FE4-7926-423D-8779-0A1B5E896965/f:Tests.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converters/f:ExampleConverter.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="1381" fromTop="9" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="729" fromTop="22" />
     </RecentFiles>
     <RecentEdits>
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="804" fromTop="23" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1161" fromTop="29" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="749" fromTop="21" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1161" fromTop="30" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="527" fromTop="14" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="348" fromTop="12" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="40" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1756" fromTop="16" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="227" fromTop="15" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="26" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="35" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="23" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="592" fromTop="26" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="217" fromTop="7" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="614" fromTop="23" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="614" fromTop="26" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="239" fromTop="7" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="153" fromTop="5" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converters/f:ExampleConverter.cs" caret="40" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="582" fromTop="18" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="604" fromTop="18" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="405" fromTop="6" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="541" fromTop="1" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1228" fromTop="26" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="883" fromTop="12" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1250" fromTop="26" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="905" fromTop="12" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml.cs" caret="0" fromTop="0" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="356" fromTop="11" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="586" fromTop="20" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="198" fromTop="9" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="124" fromTop="5" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1315" fromTop="28" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="109" fromTop="5" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1337" fromTop="28" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="674" fromTop="5" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="921" fromTop="5" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="532" fromTop="3" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="2853" fromTop="20" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="3217" fromTop="30" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="3131" fromTop="19" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1195" fromTop="25" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1319" fromTop="30" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="1419" fromTop="9" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="321" fromTop="8" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="632" fromTop="17" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="897" fromTop="26" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="199" fromTop="8" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="361" fromTop="14" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -86,29 +86,29 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="interface" priority="2" />
-      <Item value="public" priority="5" />
+      <Item value="interface" priority="3" />
+      <Item value="public" priority="6" />
       <Item value="void" priority="2" />
       <Item value="Func" priority="0" />
       <Item value="T`0" priority="7" />
-      <Item value="Action`0" priority="2" />
+      <Item value="Action`0" priority="4" />
       <Item value="IEnumerable" priority="3" />
       <Item value="action" priority="2" />
       <Item value="IRepository" priority="2" />
-      <Item value="var" priority="6" />
+      <Item value="var" priority="7" />
       <Item value="Uri`0" priority="1" />
-      <Item value="new" priority="13" />
+      <Item value="new" priority="15" />
       <Item value="Uri" priority="0" />
-      <Item value="string" priority="13" />
-      <Item value="return" priority="6" />
-      <Item value="null" priority="0" />
+      <Item value="string" priority="14" />
+      <Item value="return" priority="7" />
+      <Item value="null" priority="1" />
       <Item value="SampleContainer`0" priority="2" />
       <Item value="SampleData" priority="1" />
       <Item value="uri" priority="0" />
       <Item value="typeof" priority="3" />
       <Item value="query" priority="2" />
       <Item value="ar" priority="1" />
-      <Item value="object" priority="2" />
+      <Item value="object" priority="4" />
       <Item value="private" priority="2" />
       <Item value="ctor" priority="3" />
       <Item value="IDisposable`0" priority="0" />
@@ -127,7 +127,7 @@
       <Item value="static" priority="2" />
       <Item value="abstract" priority="0" />
       <Item value="lock" priority="0" />
-      <Item value="class" priority="0" />
+      <Item value="class" priority="1" />
       <Item value="IDataService`0" priority="7" />
       <Item value="base" priority="6" />
       <Item value="ResolveNameFromType`0" priority="0" />
@@ -136,7 +136,7 @@
       <Item value="callback" priority="0" />
       <Item value="IAsyncResult`0" priority="0" />
       <Item value="dataService" priority="2" />
-      <Item value="this" priority="3" />
+      <Item value="this" priority="5" />
       <Item value="saveables" priority="0" />
       <Item value="BusinessBase`0" priority="2" />
       <Item value="where" priority="0" />
@@ -178,7 +178,7 @@
       <Item value="handler" priority="1" />
       <Item value="PropertyChangedEventArgs" priority="0" />
       <Item value="propertyName" priority="0" />
-      <Item value="propn" priority="4" />
+      <Item value="propn" priority="5" />
       <Item value="int" priority="0" />
       <Item value="String`0" priority="0" />
       <Item value="ExampleViewModel`0" priority="0" />
@@ -187,6 +187,24 @@
       <Item value="true" priority="0" />
       <Item value="DataContext" priority="0" />
       <Item value="ViewModel" priority="0" />
+      <Item value="ProjectViewModel`0" priority="2" />
+      <Item value="RaisePropertyChanged`0" priority="0" />
+      <Item value="selectedItem" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="MessengerInstance" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="Messenger`0" priority="0" />
+      <Item value="GenericMessage" priority="0" />
+      <Item value="IMediator`0" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="childWindow" priority="2" />
+      <Item value="INotifyClosing`0" priority="0" />
+      <Item value="onClosed" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="Object`0" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="viewModel" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Browser.HtmlPage">
       <Item value="Document" priority="0" />
@@ -242,6 +260,20 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
       <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GalaSoft.MvvmLight.Messaging.IMessenger">
+      <Item value="Send`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GalaSoft.MvvmLight.Messaging.Messenger">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GalaSoft.MvvmLight.Messaging.Messenger">
+      <Item value="Register`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ChildWindow">
+      <Item value="Content" priority="0" />
+      <Item value="Show`0" priority="0" />
+      <Item value="Closed" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
