@@ -1,6 +1,6 @@
-﻿<xapCache source="C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\SilverlightArchitecture.UnitTests.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/11/2010 10:38:35 PM">
-  <file source="C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\obj\Debug\SilverlightArchitecture.UnitTests.dll" archivePath="SilverlightArchitecture.UnitTests.dll" lastWriteTime="12/11/2010 10:38:35 PM" />
-  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Toolkit\Apr10\Testing\Microsoft.Silverlight.Testing.dll" archivePath="Microsoft.Silverlight.Testing.dll" lastWriteTime="4/13/2010 8:14:58 PM" />
-  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Toolkit\Apr10\Testing\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" archivePath="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" lastWriteTime="4/13/2010 8:14:58 PM" />
-  <file source="C:\Code\Silverlight-Architecture\SilverlightArchitecture.UnitTests\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/11/2010 10:38:35 PM" />
+﻿<xapCache source="C:\Code\SilverlightArchitecture\SilverlightArchitecture.UnitTests\Bin\Debug\SilverlightArchitecture.UnitTests.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/16/2010 8:41:56 AM">
+  <file source="C:\Code\SilverlightArchitecture\SilverlightArchitecture.UnitTests\obj\Debug\SilverlightArchitecture.UnitTests.dll" archivePath="SilverlightArchitecture.UnitTests.dll" lastWriteTime="12/16/2010 8:41:55 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Toolkit\Apr10\Testing\Microsoft.Silverlight.Testing.dll" archivePath="Microsoft.Silverlight.Testing.dll" lastWriteTime="4/13/2010 11:14:58 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Toolkit\Apr10\Testing\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" archivePath="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" lastWriteTime="4/13/2010 11:14:58 PM" />
+  <file source="C:\Code\SilverlightArchitecture\SilverlightArchitecture.UnitTests\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/16/2010 8:41:55 AM" />
 </xapCache>

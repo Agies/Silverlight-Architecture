@@ -1,0 +1,5 @@
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Printing\Bin\Debug\SilverlightArchitecture.Examples.Printing.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Printing\Bin\Debug\SilverlightArchitecture.Examples.Printing.pdb
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Printing\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Printing\obj\Debug\SilverlightArchitecture.Examples.Printing.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Printing\obj\Debug\SilverlightArchitecture.Examples.Printing.pdb

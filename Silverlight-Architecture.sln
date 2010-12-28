@@ -2,6 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture", "Silverlight-Architecture\SilverlightArchitecture.csproj", "{BDC379D0-4DC0-4534-9788-AB6445BD6261}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CE808EAC-5EAC-463C-A419-C63CEEA5C039} = {CE808EAC-5EAC-463C-A419-C63CEEA5C039}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Web", "Silverlight-Architecture.Web\SilverlightArchitecture.Web.csproj", "{CE808EAC-5EAC-463C-A419-C63CEEA5C039}"
 EndProject
@@ -57,6 +60,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Contracts", "SilverlightArchitecture.Contracts\SilverlightArchitecture.Contracts.csproj", "{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SilverlightArchitecture.RIA", "SilverlightArchitecture.RIA", "{F3B3D22D-E71E-4E6E-ADDB-A45BF38106AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.RIA.Web", "SilverlightArchitecture.RIA.Web\SilverlightArchitecture.RIA.Web.csproj", "{6AB14468-638A-4E9D-9B5D-781A7DD5D92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.RIA", "SilverlightArchitecture.RIA\SilverlightArchitecture.RIA.csproj", "{BF67F5D9-6FDE-4FC4-9948-C33F47459C21}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6AB14468-638A-4E9D-9B5D-781A7DD5D92B} = {6AB14468-638A-4E9D-9B5D-781A7DD5D92B}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{98C34147-85FB-4B85-98BF-9C5A0D831766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Examples.Printing", "SilverlightArchitecture.Examples.Printing\SilverlightArchitecture.Examples.Printing.csproj", "{3AC4E183-56AD-4467-8435-7D08EE066E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Examples.Charting", "SilverlightArchitecture.Examples.Charting\SilverlightArchitecture.Examples.Charting.csproj", "{4F150D27-ED9E-46A1-A485-A9889AC2BE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +109,22 @@ Global
 		{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{117EC957-BC7C-4F14-A3EE-D8BE73CB43CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB14468-638A-4E9D-9B5D-781A7DD5D92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB14468-638A-4E9D-9B5D-781A7DD5D92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB14468-638A-4E9D-9B5D-781A7DD5D92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB14468-638A-4E9D-9B5D-781A7DD5D92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF67F5D9-6FDE-4FC4-9948-C33F47459C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF67F5D9-6FDE-4FC4-9948-C33F47459C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF67F5D9-6FDE-4FC4-9948-C33F47459C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF67F5D9-6FDE-4FC4-9948-C33F47459C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC4E183-56AD-4467-8435-7D08EE066E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC4E183-56AD-4467-8435-7D08EE066E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC4E183-56AD-4467-8435-7D08EE066E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC4E183-56AD-4467-8435-7D08EE066E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F150D27-ED9E-46A1-A485-A9889AC2BE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F150D27-ED9E-46A1-A485-A9889AC2BE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F150D27-ED9E-46A1-A485-A9889AC2BE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F150D27-ED9E-46A1-A485-A9889AC2BE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,5 +132,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E4920FE4-7926-423D-8779-0A1B5E896965} = {94CD553B-E19A-4BEC-B887-A900E00D1AE2}
 		{0BCA43C5-FF1B-4A39-8667-9C1982939182} = {94CD553B-E19A-4BEC-B887-A900E00D1AE2}
+		{6AB14468-638A-4E9D-9B5D-781A7DD5D92B} = {F3B3D22D-E71E-4E6E-ADDB-A45BF38106AF}
+		{BF67F5D9-6FDE-4FC4-9948-C33F47459C21} = {F3B3D22D-E71E-4E6E-ADDB-A45BF38106AF}
+		{3AC4E183-56AD-4467-8435-7D08EE066E81} = {98C34147-85FB-4B85-98BF-9C5A0D831766}
+		{4F150D27-ED9E-46A1-A485-A9889AC2BE86} = {98C34147-85FB-4B85-98BF-9C5A0D831766}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,1 @@
+C:\Code\SilverlightArchitecture\RIAServicesLibrary1.Web\RIAServicesLibrary1.Web.csproj,634290562822634013,Class1.cs,Properties\AssemblyInfo.cs,

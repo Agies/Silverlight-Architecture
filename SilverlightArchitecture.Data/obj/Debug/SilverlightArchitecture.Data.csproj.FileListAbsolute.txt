@@ -4,3 +4,9 @@ C:\Code\Silverlight-Architecture\SilverlightArchitecture.Data\bin\Debug\Silverli
 C:\Code\Silverlight-Architecture\SilverlightArchitecture.Data\obj\Debug\ResolveAssemblyReference.cache
 C:\Code\Silverlight-Architecture\SilverlightArchitecture.Data\obj\Debug\SilverlightArchitecture.Data.dll
 C:\Code\Silverlight-Architecture\SilverlightArchitecture.Data\obj\Debug\SilverlightArchitecture.Data.pdb
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\bin\Debug\SilverlightArchitecture.Data.dll.config
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\bin\Debug\SilverlightArchitecture.Data.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\bin\Debug\SilverlightArchitecture.Data.pdb
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\obj\Debug\SilverlightArchitecture.Data.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\obj\Debug\SilverlightArchitecture.Data.pdb

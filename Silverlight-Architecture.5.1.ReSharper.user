@@ -9,68 +9,67 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="71937A31-7A32-4809-B5D1-9865F3386AAC/f:Structure.txt/l:C!?Code?Silverlight-Architecture?Structure.txt" caret="866" fromTop="25" />
-      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?Ninject.xml" caret="0" fromTop="0" />
-      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:Ninject.Extensions.Conventions.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?Ninject?extensions?Ninject.Extensions.Conventions.xml" caret="0" fromTop="0" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:Sample.edmx.sql" caret="5310" fromTop="38" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Sample.svc.cs" caret="727" fromTop="19" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Web.config" caret="273" fromTop="7" />
+      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Web.config" caret="1549" fromTop="7" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:App.Config" caret="59" fromTop="2" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:Sample.Designer.cs" caret="1804" fromTop="22" />
-      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:MefContrib.Silverlight.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?MEF?MefContrib.Silverlight.xml" caret="0" fromTop="0" />
-      <File id="AA3E6AA7-A74A-43E9-B3DD-D8AB30C10B55/f:MefContrib.Integration.Unity.Silverlight.xml/l:C!?Code?Silverlight-Architecture?ThirdParty?MEF?MefContrib.Integration.Unity.Silverlight.xml" caret="0" fromTop="0" />
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Silverlight-ArchitectureTestPage.html" caret="2393" fromTop="36" />
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Silverlight-ArchitectureTestPage.aspx" caret="2338" fromTop="23" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:IRepository.cs" caret="321" fromTop="13" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:RepositoryRegistry.cs" caret="326" fromTop="10" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/d:Service References/d:SampleData/f:Reference.cs" caret="671" fromTop="18" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/d:Service References/d:SampleData/f:Reference.cs" caret="676" fromTop="18" />
       <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:Repository.cs" caret="348" fromTop="12" />
-      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SampleContainer.cs" caret="850" fromTop="23" />
-      <File id="FBECFD4C-2EFE-4D76-A05D-C92F1A29B24B/f:Readme.txt/l:C!?Code?Silverlight-Architecture?Readme.txt" caret="44" fromTop="2" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="385" fromTop="11" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="433" fromTop="14" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml.cs" caret="0" fromTop="0" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:Project.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleDetailViewModel.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1304" fromTop="29" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="2630" fromTop="10" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="529" fromTop="2" />
       <File id="E4920FE4-7926-423D-8779-0A1B5E896965/f:Tests.cs" caret="0" fromTop="0" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converters/f:ExampleConverter.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="1381" fromTop="9" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="729" fromTop="22" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="379" fromTop="6" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="686" fromTop="12" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:RepositoryRegistry.cs" caret="0" fromTop="0" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:DataServiceContainer.cs" caret="817" fromTop="19" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:EmployeeModel.cs" caret="151" fromTop="6" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:DetailViewModel.cs" caret="177" fromTop="6" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="254" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml" caret="55" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:DisconnectedModelRepository.cs" caret="124" fromTop="5" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:RepositoryRegistry.cs" caret="0" fromTop="0" />
+      <File id="6AB14468-638A-4E9D-9B5D-781A7DD5D92B/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:SampleDomainService.cs" caret="736" fromTop="15" />
+      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Sample.svc.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:SilverlightArchitecture.Web.g.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="614" fromTop="23" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="614" fromTop="26" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="239" fromTop="7" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:ExampleModel.cs" caret="153" fromTop="5" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Converters/f:ExampleConverter.cs" caret="40" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="604" fromTop="18" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="405" fromTop="6" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="541" fromTop="1" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1250" fromTop="26" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="905" fromTop="12" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="356" fromTop="11" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="586" fromTop="20" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml.cs" caret="198" fromTop="9" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="109" fromTop="5" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="1337" fromTop="28" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="674" fromTop="5" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="921" fromTop="5" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:MainPage.xaml" caret="532" fromTop="3" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="2853" fromTop="20" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="3217" fromTop="30" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:ExampleViewModel.cs" caret="3131" fromTop="19" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="2858" fromTop="20" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="3222" fromTop="30" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="3136" fromTop="19" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1195" fromTop="25" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1319" fromTop="30" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:ExampleView.xaml" caret="1419" fromTop="9" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="321" fromTop="8" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="632" fromTop="17" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="897" fromTop="26" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="1087" fromTop="26" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="199" fromTop="8" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="361" fromTop="14" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="1188" fromTop="20" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="806" fromTop="16" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:IWindowOpenMediator.cs" caret="839" fromTop="9" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:EmployeeModel.cs" caret="578" fromTop="10" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml" caret="1949" fromTop="1" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml" caret="1567" fromTop="2" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml" caret="1096" fromTop="2" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml" caret="2472" fromTop="1" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="2439" fromTop="24" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="2385" fromTop="14" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="2147" fromTop="5" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:DataServiceContainer.cs" caret="814" fromTop="8" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:DataServiceContainer.cs" caret="583" fromTop="8" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:EmployeeModel.cs" caret="33" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Models/f:EmployeeModel.cs" caret="151" fromTop="6" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:DetailViewModel.cs" caret="84" fromTop="4" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="270" fromTop="9" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml" caret="55" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:DisconnectedModelRepository.cs" caret="124" fromTop="5" />
+      <File id="6AB14468-638A-4E9D-9B5D-781A7DD5D92B/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:SampleDomainService.cs" caret="2135" fromTop="7" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -80,8 +79,7 @@
     <Providers />
   </UnitTestRunner>
   <UnitTestRunnerNUnit>
-    <NUnitInstallDir IsNull="False">
-    </NUnitInstallDir>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
@@ -95,11 +93,11 @@
       <Item value="IEnumerable" priority="3" />
       <Item value="action" priority="2" />
       <Item value="IRepository" priority="2" />
-      <Item value="var" priority="7" />
+      <Item value="var" priority="8" />
       <Item value="Uri`0" priority="1" />
       <Item value="new" priority="15" />
       <Item value="Uri" priority="0" />
-      <Item value="string" priority="14" />
+      <Item value="string" priority="16" />
       <Item value="return" priority="7" />
       <Item value="null" priority="1" />
       <Item value="SampleContainer`0" priority="2" />
@@ -178,7 +176,7 @@
       <Item value="handler" priority="1" />
       <Item value="PropertyChangedEventArgs" priority="0" />
       <Item value="propertyName" priority="0" />
-      <Item value="propn" priority="5" />
+      <Item value="propn" priority="6" />
       <Item value="int" priority="0" />
       <Item value="String`0" priority="0" />
       <Item value="ExampleViewModel`0" priority="0" />
@@ -197,14 +195,19 @@
       <Item value="GenericMessage" priority="0" />
       <Item value="IMediator`0" priority="0" />
       <Item value="Content" priority="0" />
-      <Item value="childWindow" priority="2" />
+      <Item value="childWindow" priority="3" />
       <Item value="INotifyClosing`0" priority="0" />
       <Item value="onClosed" priority="0" />
       <Item value="e" priority="0" />
       <Item value="Object`0" priority="0" />
       <Item value="EventArgs`0" priority="0" />
       <Item value="s" priority="0" />
-      <Item value="viewModel" priority="0" />
+      <Item value="viewModel" priority="1" />
+      <Item value="is" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="canClose" priority="1" />
+      <Item value="delegate" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Browser.HtmlPage">
       <Item value="Document" priority="0" />
@@ -274,6 +277,10 @@
       <Item value="Content" priority="0" />
       <Item value="Show`0" priority="0" />
       <Item value="Closed" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SilverlightArchitecture.Other.ICanClose">
+      <Item value="RequestClose" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

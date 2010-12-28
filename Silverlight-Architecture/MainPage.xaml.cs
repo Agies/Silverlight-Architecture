@@ -8,7 +8,7 @@ namespace SilverlightArchitecture
         private bool initialized;
         
         [Import]
-        public ExampleViewModel ViewModel { get; set; }
+        public EmployeeViewModel EmployeeViewModel { get; set; }
 
         public MainPage()
         {
@@ -21,7 +21,7 @@ namespace SilverlightArchitecture
             if (initialized) return;
             initialized = true;
 
-            DataContext = ViewModel;
+            DataContext = EmployeeViewModel;
         }
     }
 }

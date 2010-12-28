@@ -16,13 +16,13 @@ namespace SilverlightArchitecture.Repository.SampleData
     /// <summary>
     /// There are no comments for SampleContainer in the schema.
     /// </summary>
-    public partial class SampleContainer : global::System.Data.Services.Client.DataServiceContext
+    public partial class DataServiceContainer : global::System.Data.Services.Client.DataServiceContext
     {
         /// <summary>
         /// Initialize a new SampleContainer object.
         /// </summary>
         [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Services.Design", "1.0.0")]
-        public SampleContainer(global::System.Uri serviceRoot) : 
+        public DataServiceContainer(global::System.Uri serviceRoot) : 
                 base(serviceRoot)
         {
             this.ResolveName = new global::System.Func<global::System.Type, string>(this.ResolveNameFromType);

@@ -1,0 +1,1 @@
+C:\Code\SilverlightArchitecture\Silverlight-Architecture\Generated_Code\SilverlightArchitecture.Web.g.cs
