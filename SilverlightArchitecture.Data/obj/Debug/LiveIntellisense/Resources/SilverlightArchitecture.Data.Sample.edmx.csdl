@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Sample" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="SampleContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BusinessBases" EntityType="Sample.BusinessBase" />
+    <AssociationSet Name="EntityAddress" Association="Sample.EntityAddress">
+      <End Role="Entity" EntitySet="BusinessBases" />
+      <End Role="Address" EntitySet="BusinessBases" />
+    </AssociationSet>
+    <AssociationSet Name="CompanyCompany" Association="Sample.CompanyCompany">
+      <End Role="Company" EntitySet="BusinessBases" />
+      <End Role="ParentCompany" EntitySet="BusinessBases" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Entity" Abstract="true" BaseType="Sample.BusinessBase">
+    <NavigationProperty Name="Addresses" Relationship="Sample.EntityAddress" FromRole="Entity" ToRole="Address" />
+  </EntityType>
+  <EntityType Name="Person" BaseType="Sample.Entity">
+    <Property Type="String" Name="FirstName" Nullable="false" />
+    <Property Type="String" Name="LastName" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Company" BaseType="Sample.Entity">
+    <NavigationProperty Name="Children" Relationship="Sample.CompanyCompany" FromRole="Company" ToRole="ParentCompany" />
+    <NavigationProperty Name="Parent" Relationship="Sample.CompanyCompany" FromRole="ParentCompany" ToRole="Company" />
+    <Property Type="Int32" Name="CompanyId" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BusinessBase" Abstract="true">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CreatedBy" Nullable="false" />
+    <Property Type="DateTime" Name="CreatedDate" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Address" BaseType="Sample.BusinessBase">
+    <NavigationProperty Name="Owner" Relationship="Sample.EntityAddress" FromRole="Address" ToRole="Entity" />
+    <Property Type="Int32" Name="EntityId" Nullable="false" />
+    <Property Type="String" Name="Address1" Nullable="false" />
+    <Property Type="String" Name="Address2" Nullable="false" />
+  </EntityType>
+  <Association Name="EntityAddress">
+    <End Type="Sample.Entity" Role="Entity" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="Sample.Address" Role="Address" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Address">
+        <PropertyRef Name="EntityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CompanyCompany">
+    <End Type="Sample.Company" Role="Company" Multiplicity="1" />
+    <End Type="Sample.Company" Role="ParentCompany" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ParentCompany">
+        <PropertyRef Name="CompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

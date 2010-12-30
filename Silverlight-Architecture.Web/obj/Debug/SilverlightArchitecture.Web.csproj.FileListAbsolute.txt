@@ -5,3 +5,10 @@ C:\Code\Silverlight-Architecture\Silverlight-Architecture.Web\bin\SilverlightArc
 C:\Code\Silverlight-Architecture\Silverlight-Architecture.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Code\Silverlight-Architecture\Silverlight-Architecture.Web\obj\Debug\SilverlightArchitecture.Web.dll
 C:\Code\Silverlight-Architecture\Silverlight-Architecture.Web\obj\Debug\SilverlightArchitecture.Web.pdb
+C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\bin\SilverlightArchitecture.Web.dll
+C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\bin\SilverlightArchitecture.Web.pdb
+C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\bin\SilverlightArchitecture.Data.dll
+C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\bin\SilverlightArchitecture.Data.pdb
+C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\obj\Debug\SilverlightArchitecture.Web.dll
+C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\obj\Debug\SilverlightArchitecture.Web.pdb

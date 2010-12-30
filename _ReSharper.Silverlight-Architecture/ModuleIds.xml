@@ -6,4 +6,8 @@
   <Module PersistentId="6D4FB517-90DF-451A-A4EC-4E8CD7381B86" ModuleId="SilverlightArchitecture.Data" />
   <Module PersistentId="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF" ModuleId="SilverlightArchitecture.Data_1" />
   <Module PersistentId="117EC957-BC7C-4F14-A3EE-D8BE73CB43CB" ModuleId="SilverlightArchitecture.Contracts" />
+  <Module PersistentId="CF3641DF-92C4-489A-8FF0-41A02EFF8F29" ModuleId="RIAServicesLibrary1.Web" />
+  <Module PersistentId="6AB14468-638A-4E9D-9B5D-781A7DD5D92B" ModuleId="SilverlightArchitecture.RIA.Web" />
+  <Module PersistentId="3AC4E183-56AD-4467-8435-7D08EE066E81" ModuleId="SilverlightArchitecture.Examples.Printing" />
+  <Module PersistentId="4F150D27-ED9E-46A1-A485-A9889AC2BE86" ModuleId="SilverlightArchitecture.Examples.Charting" />
 </Modules>

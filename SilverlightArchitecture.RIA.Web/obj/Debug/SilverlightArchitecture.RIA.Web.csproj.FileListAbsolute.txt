@@ -1,0 +1,5 @@
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.RIA.Web\bin\Debug\SilverlightArchitecture.RIA.Web.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.RIA.Web\bin\Debug\SilverlightArchitecture.RIA.Web.pdb
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.RIA.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.RIA.Web\obj\Debug\SilverlightArchitecture.RIA.Web.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.RIA.Web\obj\Debug\SilverlightArchitecture.RIA.Web.pdb

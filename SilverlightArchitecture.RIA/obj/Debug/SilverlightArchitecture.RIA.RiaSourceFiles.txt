@@ -1,0 +1,1 @@
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.RIA.Web\SilverlightArchitecture.RIA.Web.csproj,634290566690325232,Class1.cs,Properties\AssemblyInfo.cs,

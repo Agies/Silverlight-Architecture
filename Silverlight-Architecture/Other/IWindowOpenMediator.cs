@@ -20,6 +20,11 @@ namespace SilverlightArchitecture.Other
                                   {
                                       Content = GetViewForViewModel(viewModel)
                                   };
+            var canClose = viewModel as ICanClose;
+            if (canClose != null)
+            {
+                canClose.RequestClose += (s,e) => childWindow.Close(); 
+            }
             childWindow.Closed += (s,e) => onClosed();
             childWindow.Show();
         }
@@ -28,5 +33,10 @@ namespace SilverlightArchitecture.Other
         {
             return null;
         }
+    }
+
+    public interface ICanClose
+    {
+        event EventHandler RequestClose;
     }
 }

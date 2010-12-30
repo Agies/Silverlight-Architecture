@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Sample.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="SampleStoreContainer">
+    <EntitySet Name="BusinessBases" EntityType="Sample.Store.BusinessBases" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BusinessBases_Entity" EntityType="Sample.Store.BusinessBases_Entity" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BusinessBases_Address" EntityType="Sample.Store.BusinessBases_Address" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BusinessBases_Company" EntityType="Sample.Store.BusinessBases_Company" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BusinessBases_Person" EntityType="Sample.Store.BusinessBases_Person" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="EntityAddress" Association="Sample.Store.EntityAddress">
+      <End Role="Entity" EntitySet="BusinessBases_Entity" />
+      <End Role="Address" EntitySet="BusinessBases_Address" />
+    </AssociationSet>
+    <AssociationSet Name="CompanyCompany" Association="Sample.Store.CompanyCompany">
+      <End Role="Company" EntitySet="BusinessBases_Company" />
+      <End Role="ParentCompany" EntitySet="BusinessBases_Company" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Entity_inherits_BusinessBase" Association="Sample.Store.FK_Entity_inherits_BusinessBase">
+      <End Role="BusinessBase" EntitySet="BusinessBases" />
+      <End Role="Entity" EntitySet="BusinessBases_Entity" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Address_inherits_BusinessBase" Association="Sample.Store.FK_Address_inherits_BusinessBase">
+      <End Role="BusinessBase" EntitySet="BusinessBases" />
+      <End Role="Address" EntitySet="BusinessBases_Address" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Company_inherits_Entity" Association="Sample.Store.FK_Company_inherits_Entity">
+      <End Role="Entity" EntitySet="BusinessBases_Entity" />
+      <End Role="Company" EntitySet="BusinessBases_Company" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Person_inherits_Entity" Association="Sample.Store.FK_Person_inherits_Entity">
+      <End Role="Entity" EntitySet="BusinessBases_Entity" />
+      <End Role="Person" EntitySet="BusinessBases_Person" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BusinessBases">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CreatedBy" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BusinessBases_Entity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BusinessBases_Address">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="EntityId" Type="int" Nullable="false" />
+    <Property Name="Address1" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Address2" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BusinessBases_Company">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="CompanyId" Type="int" Nullable="false" />
+    <Property Name="Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BusinessBases_Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="EntityAddress">
+    <End Role="Entity" Type="Sample.Store.BusinessBases_Entity" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Address" Type="Sample.Store.BusinessBases_Address" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Address">
+        <PropertyRef Name="EntityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CompanyCompany">
+    <End Role="Company" Type="Sample.Store.BusinessBases_Company" Multiplicity="1" />
+    <End Role="ParentCompany" Type="Sample.Store.BusinessBases_Company" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ParentCompany">
+        <PropertyRef Name="CompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Entity_inherits_BusinessBase">
+    <End Role="BusinessBase" Type="Sample.Store.BusinessBases" Multiplicity="1" />
+    <End Role="Entity" Type="Sample.Store.BusinessBases_Entity" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="BusinessBase">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Entity">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Address_inherits_BusinessBase">
+    <End Role="BusinessBase" Type="Sample.Store.BusinessBases" Multiplicity="1" />
+    <End Role="Address" Type="Sample.Store.BusinessBases_Address" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="BusinessBase">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Address">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Company_inherits_Entity">
+    <End Role="Entity" Type="Sample.Store.BusinessBases_Entity" Multiplicity="1" />
+    <End Role="Company" Type="Sample.Store.BusinessBases_Company" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Company">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Person_inherits_Entity">
+    <End Role="Entity" Type="Sample.Store.BusinessBases_Entity" Multiplicity="1" />
+    <End Role="Person" Type="Sample.Store.BusinessBases_Person" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Entity">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Person">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

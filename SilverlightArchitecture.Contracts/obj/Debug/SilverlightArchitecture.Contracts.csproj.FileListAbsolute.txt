@@ -3,3 +3,8 @@ C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\Bin\Debug\Sil
 C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\obj\Debug\ResolveAssemblyReference.cache
 C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\obj\Debug\SilverlightArchitecture.Contracts.dll
 C:\Code\Silverlight-Architecture\SilverlightArchitecture.Contracts\obj\Debug\SilverlightArchitecture.Contracts.pdb
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Contracts\Bin\Debug\SilverlightArchitecture.Contracts.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Contracts\Bin\Debug\SilverlightArchitecture.Contracts.pdb
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Contracts\obj\Debug\SilverlightArchitecture.Contracts.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Contracts\obj\Debug\SilverlightArchitecture.Contracts.pdb

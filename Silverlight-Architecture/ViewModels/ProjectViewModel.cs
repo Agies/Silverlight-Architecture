@@ -4,7 +4,7 @@ using System.ComponentModel.Composition;
 namespace SilverlightArchitecture
 {
     [Export]
-    public class ProjectViewModel : ExampleDetailViewModel<Project>
+    public class ProjectViewModel : DetailViewModel<Project>
     {
         public string Name
         {

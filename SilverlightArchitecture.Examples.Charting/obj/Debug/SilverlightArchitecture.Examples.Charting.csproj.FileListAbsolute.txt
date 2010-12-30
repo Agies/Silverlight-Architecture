@@ -1,0 +1,5 @@
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Charting\Bin\Debug\SilverlightArchitecture.Examples.Charting.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Charting\Bin\Debug\SilverlightArchitecture.Examples.Charting.pdb
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Charting\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Charting\obj\Debug\SilverlightArchitecture.Examples.Charting.dll
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Examples.Charting\obj\Debug\SilverlightArchitecture.Examples.Charting.pdb

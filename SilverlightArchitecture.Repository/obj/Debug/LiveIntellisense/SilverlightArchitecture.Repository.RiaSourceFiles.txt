@@ -1,0 +1,1 @@
+C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\SilverlightArchitecture.Data.csproj,634292244422176990,Properties\AssemblyInfo.cs,Sample.Designer.cs,SampleDataService.cs,SampleDomainService.metadata.cs,

@@ -1,0 +1,1 @@
+C:\Code\Silverlight-Architecture\SilverlightArchitecture.Repository\Generated_Code\SilverlightArchitecture.Data.g.cs
