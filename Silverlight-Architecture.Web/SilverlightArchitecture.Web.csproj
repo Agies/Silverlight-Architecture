@@ -86,7 +86,6 @@
     <Compile Include="Sample.svc.cs">
       <DependentUpon>Sample.svc</DependentUpon>
     </Compile>
-    <Compile Include="SampleDomainService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SilverlightArchitecture.Data\SilverlightArchitecture.Data.csproj">

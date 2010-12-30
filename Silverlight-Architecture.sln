@@ -55,6 +55,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.IntegrationTests", "SilverlightArchitecture.IntegrationTests\SilverlightArchitecture.IntegrationTests.csproj", "{0BCA43C5-FF1B-4A39-8667-9C1982939182}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Repository", "SilverlightArchitecture.Repository\SilverlightArchitecture.Repository.csproj", "{6D4FB517-90DF-451A-A4EC-4E8CD7381B86}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF} = {7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightArchitecture.Data", "SilverlightArchitecture.Data\SilverlightArchitecture.Data.csproj", "{7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF}"
 EndProject

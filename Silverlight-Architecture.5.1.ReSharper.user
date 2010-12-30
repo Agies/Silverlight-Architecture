@@ -11,7 +11,7 @@
     <RecentFiles>
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:Sample.edmx.sql" caret="5310" fromTop="38" />
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Web.config" caret="1549" fromTop="7" />
-      <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:App.Config" caret="59" fromTop="2" />
+      <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:App.Config" caret="1365" fromTop="2" />
       <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:Sample.Designer.cs" caret="1804" fromTop="22" />
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Silverlight-ArchitectureTestPage.html" caret="2393" fromTop="36" />
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Silverlight-ArchitectureTestPage.aspx" caret="2338" fromTop="23" />
@@ -35,12 +35,12 @@
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:DisconnectedModelRepository.cs" caret="124" fromTop="5" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:RepositoryRegistry.cs" caret="0" fromTop="0" />
       <File id="6AB14468-638A-4E9D-9B5D-781A7DD5D92B/f:Class1.cs" caret="0" fromTop="0" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:SampleDomainService.cs" caret="736" fromTop="15" />
       <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:Sample.svc.cs" caret="0" fromTop="0" />
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:SilverlightArchitecture.Web.g.cs" caret="0" fromTop="0" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:SilverlightArchitecture.Web.g.cs" caret="24567" fromTop="8" />
+      <File id="7B4836F3-5BEF-424F-B7F7-86D3AADAA0AF/f:SampleDataService.cs" caret="0" fromTop="0" />
+      <File id="6D4FB517-90DF-451A-A4EC-4E8CD7381B86/f:SilverlightArchitecture.Data.g.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="2858" fromTop="20" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="3222" fromTop="30" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:ViewModels/f:EmployeeViewModel.cs" caret="3136" fromTop="19" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:App.xaml.cs" caret="1195" fromTop="25" />
@@ -69,7 +69,7 @@
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Views/f:EmployeeView.xaml" caret="55" fromTop="0" />
       <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/d:Other/f:DisconnectedModelRepository.cs" caret="124" fromTop="5" />
       <File id="6AB14468-638A-4E9D-9B5D-781A7DD5D92B/f:Class1.cs" caret="0" fromTop="0" />
-      <File id="CE808EAC-5EAC-463C-A419-C63CEEA5C039/f:SampleDomainService.cs" caret="2135" fromTop="7" />
+      <File id="BDC379D0-4DC0-4534-9788-AB6445BD6261/f:SilverlightArchitecture.Web.g.cs" caret="25396" fromTop="8" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

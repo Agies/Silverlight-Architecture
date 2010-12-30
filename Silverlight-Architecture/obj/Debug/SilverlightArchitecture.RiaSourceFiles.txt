@@ -1,2 +1,0 @@
-C:\Code\SilverlightArchitecture\Silverlight-Architecture.Web\SilverlightArchitecture.Web.csproj,634290570317942720,Properties\AssemblyInfo.cs,Sample.svc.cs,SampleDomainService.cs,
-C:\Code\SilverlightArchitecture\SilverlightArchitecture.Data\SilverlightArchitecture.Data.csproj,634279655839545382,Properties\AssemblyInfo.cs,Sample.Designer.cs,
